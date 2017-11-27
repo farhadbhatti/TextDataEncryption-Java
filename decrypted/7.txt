@@ -1,0 +1,7 @@
+http://www.adidas.co.uk/ultra-boost-parley-shoes/BB4762.html
+this is the website link for an Adidas Product.
+if it redirect you to your country's one please change it to United Kingdom.
+as you can see the product is sold out
+i want the script to inform me with twitter notification whenever a product that is sold out come back in stock.or sizes are loaded.
+and here is a product to see what it looks like when it is in the stock.
+http://www.adidas.co.uk/nmd_r1-shoes/S31507.html
